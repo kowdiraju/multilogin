@@ -1,0 +1,6 @@
+.steps{
+    display: none;
+}
+.steps.active{
+    display: block;
+}
